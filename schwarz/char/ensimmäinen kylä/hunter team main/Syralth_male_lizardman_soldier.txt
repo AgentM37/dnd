@@ -1,0 +1,34 @@
+Description
+Syralth is a 25 year old male lizardman soldier.
+He has a smooth head and blue eyes.
+He has rough dark green scales.
+He stands 182cm (5'11") tall and has a musculiar  build.
+He has an oval, cute face.
+
+He has a scar on his neckand a small scar on his back.
+He is allergic to gluten.
+
+Personality Traits
+	
+He values his survival above everything else. 
+He can't keep a secret. He always obeys his  superiors. He has a pet fox companion named Jacky.
+
+Ability Scores
+Strength - 16 [+3]
+Dexterity - 10 [0]
+Constitution - 15 [+2]
+Intellect - 10 [0]
+Wisdom - 9 [-1]
+Charisma - 8 [-1]
+
+Relationships
+Sexual Orientation - Straight
+Relationship Status - In a relationship
+
+Alignment Tendencies
+Good: 0 Lawful: 7
+Neutral: 5 Neutral: 6
+Evil: 8 Chaotic: 0
+
+
+

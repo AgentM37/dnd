@@ -1,0 +1,34 @@
+Description
+Nessonth is a 37 year old male lizardman soldier.
+He has a smooth head and blue eyes.
+He has shiny black scales.
+He stands 172cm (5'7") tall and has a regular build.
+He has a soft, repulsive face.
+
+He has an impressive limp.
+
+Personality Traits
+
+	He has a hard time understanding other humanoids' emotions. 
+	He is slightly lazy. He used to be bullied as a child and learned to fight so that it wouldn't happen again. 	He intermittently thinks aloud.
+
+Ability Scores
+	Strength - 14 [+2]
+	Dexterity - 8 [-1]
+	Constitution - 13 [+1]
+	Intellect - 12 [+1]
+	Wisdom - 12 [+1]
+	Charisma - 8 [-1]
+
+Relationships
+	Sexual Orientation - Straight
+	Relationship Status - In a relationship
+
+
+Alignment Tendencies
+	Good: 0 Lawful: 7
+	Neutral: 4 Neutral: 2
+	Evil: 5 Chaotic: 0
+
+
+

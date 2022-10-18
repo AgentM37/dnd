@@ -1,0 +1,32 @@
+Description
+Cedany Montagu is a 32 year old female lizardwoman soldier Cpt.
+She has very long, wavy, black hair and gray eyes.
+She has soft white skin.
+She stands 147cm (4'9") tall and has an athletic build.
+She has a square, pretty face.
+
+She has a large piercing on her right ear and an unfinished piercing on her forehead.
+
+Personality Traits
+	She acts on impulse. 
+	She is a perfectionist. She can see an opening in any defense. She lies poorly on purpose.
+
+Ability Scores
+	Strength - 19 [+4]
+	Dexterity - 19 [+4]
+	Constitution - 15 [+2]
+	Intellect - 10 [0]
+	Wisdom - 11 [0]
+	Charisma - 13 [+1]
+
+Relationships
+	Sexual Orientation - Gay
+	Relationship Status - Single
+
+Alignment Tendencies
+	Good: 1 Lawful: 3
+	Neutral: 4 Neutral: 2
+	Evil: 2 Chaotic: 2
+
+
+
