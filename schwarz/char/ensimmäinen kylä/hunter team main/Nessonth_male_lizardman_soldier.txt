@@ -17,7 +17,7 @@ Ability Scores
 	Dexterity - 8 [-1]
 	Constitution - 13 [+1]
 	Intellect - 12 [+1]
-	Wisdom - 12 [+1]
+	Wisdom - 12 [+1] 
 	Charisma - 8 [-1]
 
 Relationships
