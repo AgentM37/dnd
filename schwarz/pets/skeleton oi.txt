@@ -1,3 +1,5 @@
+stat bs = 0
+
 AC
 13 (Armor Scraps)
 Alignment
