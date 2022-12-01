@@ -1,0 +1,42 @@
+AC
+13 (Armor Scraps)
+Alignment
+Lawful Evil
+CHA
+5
+CON
+15
+Challenge Rating
+1/4
+Condition Immunities
+Exhaustion, Poisoned
+DEX
+14
+HP
+23 (3)  (2d8+4)
+INT
+6
+Immunities
+Poison
+Languages
+Understands All Languages It Spoke In Life But Can't Speak
+Passive Perception
+9
+Roll 0
+Shortsword 1d20 + 4 1d6+2
+Roll 1
+Shortbow 1d20 + 4 1d6+2
+STR
+10
+Senses
+Darkvision 60 Ft.
+Size
+Medium
+Speed
+30 ft.
+Type
+undead
+Vulnerabilities
+Bludgeoning
+WIS
+8

@@ -1,0 +1,31 @@
+high density
+ 1 part			 4 ki for vekor 2 ki for tihong
+						full heal skeletons plusz 1 stats 
+						+ 15 max health
+
+advanced density 
+		1 		2 ki for vekor 1 ki for tihong
+				if 
+					skeletons max hp 
+						then plusz 0.5 stat 
+				else
+					skeleton full heal and 0.2 stat
+
+
+medium density 
+		1		 0.5 ki for vekor 0.25	ki for tihong 
+					if 	
+						skeletons max hp
+							then plusz 0.125 stat 	
+					else skeleton
+							5 heal and 0.05 stat 
+
+inter mediete density 
+				0.05 ki for vekor 0.025 ki for tihong
+					if skeletons max hp 
+							then plusz 0.0125 stat
+
+
+
+
+low density 
